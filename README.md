@@ -1,4 +1,4 @@
-## Databricks SQL & Python Tutorial
+## Databricks SQL & Python 
 
 This repository contains notebooks developed while learning Databricks for
 data engineering and analytics workflows.
